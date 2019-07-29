@@ -1,6 +1,6 @@
 
 server:
-  port: 4000
+  port: 4222
 spring:
   application:
     name: plat-service
