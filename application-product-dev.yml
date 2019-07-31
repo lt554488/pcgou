@@ -1,6 +1,6 @@
 
 server:
-  port: 4444
+  port: 4422
 spring:
   application:
     name: product-service
