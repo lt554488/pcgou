@@ -1,0 +1,6 @@
+
+server:
+  port: 4333
+spring:
+  application:
+    name: product-service
